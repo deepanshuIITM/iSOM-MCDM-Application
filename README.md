@@ -1,6 +1,8 @@
 # iSOM-MCDM-Application
 ## Under development, will be available SOON...
 
+![image](https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/897b79c1-6dee-40a8-96a2-101f8dbc9036)
+
 ### Key Features
 #### [1]. GUI for Multi-Objective Optimization (MOO)
 
@@ -28,5 +30,5 @@
 
      c. Scalarization-based approaches
 
-![image](https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/897b79c1-6dee-40a8-96a2-101f8dbc9036)
+
 
