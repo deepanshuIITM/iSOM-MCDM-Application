@@ -1,8 +1,15 @@
 # iSOM-MCDM-Application
 ## COMING SOON... (Under Development)
 
+a. **Demo of iSOM-assisted Pareto Race**
+
 https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/65a3b0ea-8ac6-4cde-adac-9a76395a4dc2
 
+b. **Demo of iSOM-assisted NIMBUS**
+
+https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/a41fc74e-d23b-4316-9e78-b7dc42f29e96
+
+c. **A representative image**
 
 ![image](https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/897b79c1-6dee-40a8-96a2-101f8dbc9036)
 
