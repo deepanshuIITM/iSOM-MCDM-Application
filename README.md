@@ -7,7 +7,7 @@ https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/65a3b0ea
 
 b. **Demo of iSOM-assisted NIMBUS**
 
-https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/a41fc74e-d23b-4316-9e78-b7dc42f29e96
+https://github.com/deepanshuIITM/iSOM-MCDM-Application/assets/137225940/43fae647-deed-409d-8a28-0f0dc8e93bf3
 
 c. **A representative image**
 
