@@ -16,29 +16,29 @@ c. **A representative image**
 ### Key Features
 #### [1]. GUI for Multi-Objective Optimization (MOO)
 
-    a. User can define design variables, and write objective/constraint functions manually
+    i. User can define design variables, and write objective/constraint functions manually
     
-    b. Interactive visualization techniques mainly iSOM
+    ii. Interactive visualization techniques mainly iSOM
     
-    c. Users can define the MOO parameters
+    iii. Users can define the MOO parameters
     
 #### [2]. Interactive MCDM such as NIMBUS and Pareto Race
 
-     a. Framework for performing MCDM 
+     i. Framework for performing MCDM 
      
-     b. Key components of Pareto Race and NIMBUS included 
+     ii. Key components of Pareto Race and NIMBUS included 
      
-     c. Navigation and visualization of MCDM solutions
+     iii. Navigation and visualization of MCDM solutions
      
-     d. Multiple visualization methods such as PCP, Bar Chart, Spider chart, pie chart etc aid decision-making process
+     iv. Multiple visualization methods such as PCP, Bar Chart, Spider chart, pie chart, etc aid the decision-making process
      
 #### [3]. Preference-based optimization and decision-making
 
-     a. Reference point and reference direction based MOO
+     i. Reference point and reference direction based MOO
 
-     b. Provides diverse solutions in a single run
+     ii. Provides diverse solutions in a single run
 
-     c. Scalarization-based approaches
+     iii. Scalarization-based approaches
 
 
 
